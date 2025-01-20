@@ -1,6 +1,6 @@
 ## Olá me chamo Gabriel Santos 🖐🏾
 Tenho 20 anos de idade, atualmente moro no Brasil e sou apaixonado pela tecnologia desde criança.
-* 📚 Cursando 4° periodo de Engenharia De Software
+* 📚 Cursando 5° periodo de Engenharia De Software
 * Estudando: Java, Spring Boot e Banco De Dados
 
 ##
