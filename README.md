@@ -5,7 +5,7 @@ Tenho 20 anos de idade, atualmente moro no Brasil e sou apaixonado pela tecnolog
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSantos001)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSantos001)](https://github.com/gabrielsantos001/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
