@@ -1,14 +1,13 @@
 ## Olá me chamo Gabriel Santos 🖐🏾
-Tenho 20 anos de idade, atualmente moro no Brasil e sou apaixonado pela tecnologia desde criança.
-* 📚 Cursando 5° periodo de Engenharia De Software
-* Estudando: Java, Spring Boot e Banco De Dados
+Tenho 21 anos de idade, atualmente moro no Brasil e sou apaixonado pela tecnologia desde criança.
+* 📚 Cursando 6° periodo de Engenharia De Software
+* Estudando: Análise de Dados, Python e Banco De Dados
 
 ##
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Gabriel-Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Gabriel-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
