@@ -1,7 +1,7 @@
 ## Olá me chamo Gabriel Santos 🖐🏾
 Tenho 21 anos de idade, atualmente moro no Brasil e sou apaixonado pela tecnologia desde criança.
 * 📚 Cursando 6° periodo de Engenharia De Software
-* Estudando: Análise de Dados, Python e Banco De Dados
+* Estudando: Análise de Dados, Python, Banco De Dados, Git e Github
 
 ##
 
