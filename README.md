@@ -9,6 +9,8 @@ Tenho 21 anos de idade, atualmente moro no Brasil e sou apaixonado pela tecnolog
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Gabriel-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Gabriel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"/>
+  <img align="center" alt="Gabriel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
 </div>
 
  ##
